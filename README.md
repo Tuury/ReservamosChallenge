@@ -5,7 +5,7 @@ Rest API to get weather forecast
 
 Make sure you have the following software installed on your machine:
 
-- [Python](https://www.python.org/downloads/) (version x.x)
+- [Python](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/installation/)
 - [virtualenv](https://pypi.org/project/virtualenv/)
 
